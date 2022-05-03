@@ -112,4 +112,5 @@ Para compilação devemos utilizar:<br>
 
 Para iniciarmos devemos utilizar:<br>
 >*./shm **x*** <br>
+
 em que **x** deve ser um valor inteiro, representando a quantidade de processos desejados.
