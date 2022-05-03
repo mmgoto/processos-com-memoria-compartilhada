@@ -108,8 +108,8 @@ for (int i = 0; i < n_process; i++) {
 # Resultado
 
 Para compilação devemos utilizar:<br>
-*gcc -Wall shm.c -o shm -lrt*
+>*gcc -Wall shm.c -o shm -lrt*
 
 Para iniciarmos devemos utilizar:<br>
-*./shm **x*** <br>
+>*./shm **x*** <br>
 em que **x** deve ser um valor inteiro, representando a quantidade de processos desejados.
